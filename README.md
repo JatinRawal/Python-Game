@@ -1,1 +1,1 @@
-# Fantasy-cricket-league-game-using-Python
+# Fantasy Cricket League Game
